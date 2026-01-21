@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class MainApp {
+public class CalculatorApp {
     public static void main(String[] args) {
         String inputExpression = ReadInput.read();
 
